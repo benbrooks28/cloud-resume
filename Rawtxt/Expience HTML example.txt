@@ -1,0 +1,25 @@
+  <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Network Administrator Level 2</h3>
+                            <div class="subheading mb-3">Insight Global</div>
+                            <p> 
+• Manage firewalls/ACLs, both ASA and those managed in FMC on the Navy Continuous Training Environment (NCTE) live tactical training network.
+<br> 
+• Operates within a network operations center environment providing customer support, trouble
+ticketing, and issue resolution using tools such as JIRA and Confluence.
+<br>
+• Expert knowledge in Cisco routing and switching while managing VRF's, MPLS configurations and
+IPSEC/GRE tunnels.
+<br>
+• Maintains and implements static routes to facilitate ships' IP connection when they are in port or at sea.
+<br>
+• Use Cisco ISE and call manager to deploy and configure Cisco VoIP phones and other network devices.
+<br>
+• Monitor, configure, and troubleshoot enterprise WAN/LAN networks, including DISA WAN circuits,
+supporting the Navy's live and virtual exercises, primarily using SolarWinds Orion.
+<br>
+• Conducted basic server and windows administration on virtual servers. This was done using tools like Active Directory Users and Computers (ADUC) and vSphere.
+</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Jul 2024 - Present</span></div>
+                  </div>

@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Resume - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Benjamin Brooks</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Certifications">Certifications</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Benjamin
+                        <span class="text-primary">Brooks</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        Chesapeake, VA · (216) 816-8824 ·
+                        <a href="mailto:name@email.com">benjaminbrooks.728@gmail.com</a><br><br>
+About Me
+                    </div>
+                    <p class="lead mb-5">AWS Certified Solutions Architect - Associate and experienced network engineer who is eager to learn and seeking an opportunity to apply my passion for developing and implementing cloud solutions to improve operations, reduce costs, and drive efficiencies. Navy veteran with Top Secret/SCI security clearance. Expert in network system investigation and
+problem-solving based on data and research. Strong communication skills to facilitate cohesion and a productive
+work environment.
+
+</p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="https://www.linkedin.com/in/benjamin-latrell-brooks/"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-aws"></i></a>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                  <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Network Administrator Level 2</h3>
+                            <div class="subheading mb-3">Insight Global</div>
+                            <p> 
+• Manage firewalls/ACLs, both ASA and those managed in FMC on the Navy Continuous Training Environment (NCTE) live tactical training network.
+<br> 
+• Operates within a network operations center environment providing customer support, trouble
+ticketing, and issue resolution using tools such as JIRA and Confluence.
+<br>
+• Expert knowledge in Cisco routing and switching while managing VRF's and
+IPSEC/GRE tunnels.
+<br>
+• Maintains and implements static routes to facilitate ships' IP connection when they are in port or at sea.
+<br>
+• Use Cisco ISE and call manager to deploy and configure Cisco VoIP phones and other network devices.
+<br>
+• Monitor, configure, and troubleshoot enterprise WAN/LAN networks, including DISA WAN circuits,
+supporting the Navy's live and virtual exercises, primarily using SolarWinds Orion.
+<br>
+• Conducted basic server and windows administration on virtual servers. This was done using tools like Active Directory Users and Computers (ADUC) and vSphere.
+</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Jul 2024 - Present</span></div>
+                  </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Network Equipment Division Supervisor</h3>
+                            <div class="subheading mb-3">United States Navy</div>
+                            <p>• Determined equipment allowance, researched, and identified supplies and equipment requirements.
+                              <br>                  
+                               • Established facility safety and security, policy implementation, and legal compliance.<br>
+                               • Computed and accumulated data for use in analysis; analyzed reports and recorded activities,
+                                reported inefficiencies to supervisors and recommended corrective actions to improve operations.
+                               <br>
+                               • Gathered and processed data to support informed decision-making; pinpointed inefficiencies, 
+                               proposed solutions, and boosted operational efficiency by 30 percent.<br>
+                               • Supervised the work in conjunction with NMCI and other enterprise technicians to troubleshoot
+                               user complaints, and verify documentation before submission or turnover of equipment.<br>
+                               • Coordinated resources including personnel scheduling, materials procurement, and inventory control
+                                for the entire IT Department.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Jun 2020 - Jul 2023</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Lead Network Administrator</h3>
+                            <div class="subheading mb-3">United States Navy</div>
+                            <p>• Used PuTTy to troubleshoot and resolve network and switch related issues, including proper port security, routing, and trunk configuration for classified and unclassified networks.<br>
+• Managed numerous VLANS for Dell and HP hardware, Cisco IP phones, and printers for multiple MAN's to
+ensure proper network function and communication.<br>
+• Corrected network malfunctions to restore connectivity to individual users and entire facilities by replacing or
+re-tipping cable, replacing hardware (SFP's) or suggesting configuration changes.<br>
+• Configured and maintained network hardware, Cisco routers, switches, and wireless access points across four
+geographical sites.<br>
+• Used Active Directory in order to verify workstations and users were in their correct OU’s and groups,
+allowing them to receive the proper group policy and additional software.<br>
+• Handled troubleshooting tasks for Local Area Networks, Wide Area Networks and voice systems to reduce
+network connectivity problems.<br>
+• Installed and maintained VoIP and VTC devices, checking customer availability for various networks.<br>
+• Verified router and switch running and saved configuration, correct 802.1q encapsulation settings, OSPF
+neighbor states, and correct DHCP pools/ranges for VLANS.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Jan 2019 - Jun 2020</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Network Technician</h3>
+                            <div class="subheading mb-3">United States Navy</div>
+                            <p>• Coordinated software installations using SCCM and RDP, ensuring seamless onboarding for new staff and uninterrupted maintenance for existing customers.<br>
+• Prepared workstations and initiated IT system installations and images for new employees.<br>
+• Deployed and maintained Windows operating system images for 5,240 computers using SCCM OS Deployment feature and PXE.<br>
+• Performed periodic maintenance activities such as running hardware and software inventory scans, updating
+client information.<br>                  
+• Handled troubleshooting tasks for Local Area Networks, Wide Area Networks and voice systems to reduce
+network connectivity problems.<br>
+• Cable management skills include tipping and running various types of cables such as Cat5, Cat6, and Fiber.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Dec 2017 - Jan 2019</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Technical Communications Supervisor</h3>
+                            <div class="subheading mb-3">United States Navy</div>
+                            <p>• Isolated faults by coordinating with commercial and military satellite service providers and depots to test system components, configurations and assemblies.<br>
+• Removed, repaired, and replaced assemblies and sub-assemblies to optimally sustain voice, data, and video
+networks.<br>
+• Handled the quality assurance for over 500 voice and data communication systems, and IP circuits
+internationally.<br>
+• Implemented agile logistics support channels to sustain continuous network operations.<br>
+• Conducted periodic inspections of system installations and repair activities, interpreted inspection reports, and
+implemented corrective actions.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Dec 2014 - Dec 2017</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Global Information Technology</h3>
+                            <div class="subheading mb-3">IT Professional 6 Course</div>
+                            <civ>While attending this remote program, I was able to challenge myself, learn new skills and advance my expertise in cloud computing, networking, and cyber security. This also allowed me to stay abreast with current tools, technology, and maintain current cetifications. I was also able to get hands on expience with various aspects and the capabilities of AWS.
+                            <p><!-- GPA--></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Sep 2023 - Jan 2024</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Garfield Heights High School</h3>
+                            <div class="subheading mb-3">High School Diploma</div>
+                            <p><!-- GPA--></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Jun 2013</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                  <ul class="fa-ul mb-0">
+                  <li>
+                    <span class="fa-li"><i class="fas fa-check"></i></span>
+                     Active Directory
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Architectural Design and Planning
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Backup and Disaster Recovery
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Cisco IOS
+
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Continuous Integration/Continuous Development (
+CI/CD)
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Identity and Access Management (IAM)
+
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Inter-VLAN Routing
+
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Identity and Access Management (IAM)
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Inter-VLAN Routing
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Microsoft Windows
+
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Network Administration
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Open Shortest Path First (OSPF)
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Ports and Protocols
+
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                             Project Management
+                        </li>
+                    
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Remote Desktop Protocol (RDP)
+
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                           Risk Management and Mitigation
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Subnetting
+
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Technical Support and Troubleshooting
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Technology installation
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Virtual and Cloud Technologies
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Virtual LAN (VLAN)
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Voice Over Internet Protocol (VoIP)
+
+                        </li>
+                    <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            WAN
+                        </li>
+                  </ul>
+                  <br>
+                    <div class="subheading mb-3">AWS Architecture, Design and Implementation</div>                  
+                    <ul class="fa-ul mb-0">
+                        <ul>
+                          • Amazon CloudFront<br>
+• Amazon CloudWatch<br>
+• Amazon Elastic Compute Cloud (EC2)<br>
+• AWS Management Console<br>
+• CloudFormation<br>
+• Elastic Container Service (ECS)<br>
+• Key Management Service (KMS)<br>
+• Lambda<br>
+• Virtual Private Cloud (VPC)<br>
+• AWS CLI<br>
+                        </ul>
+                      </ul>
+                  <br>
+                    <div class="subheading mb-3">Cloud Computing</div>
+                    <ul class="fa-ul mb-0">
+                        <ul>
+                          <span class="fa-li"><i class="fas fa-check"></i></span>
+                          • Infrastructure as a Service (IaaS) <br>• Infrastructure as Code (IaC)<br> • Microsoft Azure<br> • Platform as a Service (PaaS)<br> • Serverless Computing<br> • Software as a Service (SaaS)
+                          </ul>
+                      </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Projects-->
+            <section class="resume-section" id="projects">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">PROJECTS</h2>
+                  <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                  <h3 class="mb-0">AWS Home Lab</h3>
+                      <div class="subheading mb-3">AWS Resume Challenge and More</div>
+                    <p>While attending the IT Professional 6 course, I was able to challenge myself, learn new skills and advance my expertise in cloud computing. I was able to set up an at home lab to gain practical expierence with AWS accomplishing goals I set for myself such as:
+                              <br><br>
+• Managed multiple AWS accounts using AWS organizations and implemented SCP's.<br>
+• Configured, maintained, and monitored virtual machines in the cloud environment.<br>
+• Managed user access control across AWS IAM Identity Center, including SSO and MFA.<br>
+• Configured CloudTrail logs and cloud watch to monitor users and services in the cloud.<br>
+• Built and maintain static website hosted on S3 that contains my current resume (AWS Resume Challenge). 
+                      </p>
+              </div>
+                  <div class="flex-shrink-0"><span class="text-primary">Nov 2023 - Jan 2024</span></div>        
+                    </div>
+                   <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                  <h3 class="mb-0">AWS  Solution Architecture and Implementation</h3>
+                      <div class="subheading mb-3">Global Information Technology</div>
+                    <p>
+                      • Designed, implemented, and managed cloud-based architectures using Amazon Web Services technologies such as S3, CloudWatch, and VPC.<br>
+                      • Conducted research into emerging cloud and on-premises technologies to identify opportunities for improvement and career development.<br>
+                      • Provided technical leadership during the design, implementation, testing, and deployment phases of projects.
+                      </p>
+              </div>
+                  <div class="flex-shrink-0"><span class="text-primary">Nov 2023 - Jan 2024</span></div>        
+                    </div>
+                   <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                  <h3 class="mb-0">Naples, Italy Tech Refresh</h3>
+                      <div class="subheading mb-3">United States Navy</div>
+                    <p>Managed the imaging, retrieval, and destruction of 2,122 computers with a team of 7 sailors and 8 SAIC contractors with no significant downtime during ongoing naval operations and fleet exercises at Naval Computer and Telecommunications Station (NCTS) Italy.</p>
+              </div>
+                  <div class="flex-shrink-0"><span class="text-primary">Mar 2019 - Jun 2019</span></div>        
+                    </div>
+              
+            </section>
+            <hr class="m-0" />
+            <!-- Certifications-->
+            <section class="resume-section" id="Certifications">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Certifications</h2>
+                    <ul class="fa-ul mb-0">
+                      <li>
+                          <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            AWS Certified Solutions Architect - Associate Dec 2024 - Dec 2027
+                          <a class="social-icon" href="https://aws.amazon.com/verification"><i class="fab fa-aws"></i></a>
+                        </li>
+                        <li>
+                          <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            AWS Certified Cloud Practitioner Dec 2023 - Dec 2027
+                          <a class="social-icon" href="https://aws.amazon.com/verification"><i class="fab fa-aws"></i></a>
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            CompTIA Security + Aug 2023 - Aug 2026
+                          <a class="social-icon" href="http://verify.comptia.org/"><i class="fa-solid fa-shield-halved"></i></a>
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Microsoft Certified : Azure Fundamentals Oct 2020 - Present
+                          <a class="social-icon" href="https://learn.microsoft.com/api/credentials/share/en-us/BenjaminBrooks-9655/79EA2F9245102B63?sharingId=9CECFC1C51BB7DC2"><i class="fab fa-microsoft"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
