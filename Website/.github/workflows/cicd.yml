@@ -1,0 +1,17 @@
+name: Upload website to S3
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: jakejarvis/s3-sync-action@master
+        env:
+          AWS_S3_BUCKET: ${{ mybucket-resume }}
+          AWS_ACCESS_KEY_ID: ${{ AKIATJEX4TQZ5XY5C4XC }}
+          AWS_SECRET_ACCESS_KEY: ${{ 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 }}
