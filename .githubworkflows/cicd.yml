@@ -16,4 +16,4 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AKIATJEX4TQZ5XY5C4XC }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.0bDOIY+sjvywxP7C3Cu4N8khluFFS9+p5yLXvLgR }}
           AWS_REGION: 'https://us-east-1.console.aws.amazon.com/'
-          SOURCE_DIR: 'https://d2brfdncitcsys.cloudfront.net'
+          SOURCE_DIR: 'https://github.com/benbrooks28/cloud-resume'
